@@ -19,3 +19,6 @@ curl https://get.modular.com | \
 - `source ~/.bashrc`
 - `mojo --version` should now work
 - `mojo --help` should now work
+
+- example repo: https://github.com/modularml/mojo/tree/main/examples
+
